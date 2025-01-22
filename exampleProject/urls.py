@@ -18,7 +18,7 @@ from django.contrib import admin
 from django.urls import path
 
 urlpatterns = [
-    # test yur and
+    # new feature yur
     # git branch
     path('admin/', admin.site.urls),
 ]
